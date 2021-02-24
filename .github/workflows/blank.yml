@@ -15,4 +15,5 @@ jobs:
         username: admin
         password: qazwsxedcrfv
         host: 21
+        server-dir: web/test
         
